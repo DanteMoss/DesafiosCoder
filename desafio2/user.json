@@ -1,0 +1,19 @@
+[
+	{
+		"id": 1,
+		"title": "Nuevo Producto",
+		"description": "",
+		"price": 0,
+		"thumbnail": "",
+		"stock": 0
+	},
+	{
+		"title": "nombre modificado ",
+		"description": "Este es el producto A",
+		"price": 19.99,
+		"thumbnail": "rutadeimagen.png",
+		"stock": 10,
+		"id": 2,
+		"code": "QB2G"
+	}
+]
